@@ -8,11 +8,9 @@ This landing page is designed to be fully responsive, meaning that it adapts to 
 
 # Installation
 
-1. Clone the repository to your computer:
+To run this project, simply download or clone the repository to your computer and open the index.html file in a web browser.
 
 ## git clone https://github.com/your-username/mongo-landing-page.git
-
-2. And run this project simplely open index.html on browser.
 
 # Screenshots
 
