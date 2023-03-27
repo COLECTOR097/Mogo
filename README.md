@@ -1,4 +1,4 @@
-# Mongo Landing Page
+# Mogo Landing Page
 
 This project is a simple landing page that uses HTML, CSS, JS, and MongoDB to create a fully responsive design. The project allows the user to submit their name and email address, and stores the data in a MongoDB database.
 
